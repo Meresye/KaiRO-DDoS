@@ -1,3 +1,5 @@
+# https://kairo.meresye.xyz/
+
 # KAIRO DDoS
 
 A terminal-based HTTP stress tester with an animated ASCII console UI, built on `prompt_toolkit` and `aiohttp`. The header, skull blink animation, and progress bars run at a steady 20 FPS independently of network latency, so the interface never freezes while requests are in flight.
